@@ -1,6 +1,6 @@
 ## Sea Level Rise Projection Analysis
 
-This project analyzes sea level rise projections from the IPCC AR6 report using Google Earth Engine.
+This project analyzes sea level rise projections from the IPCC AR6 report. The analysis is done for the closes lat, long coordinates for Dubai.
 
 Data Source: https://sealevel.nasa.gov/ipcc-ar6-sea-level-projection-tool?lat=25&lon=%2054&data_layer=scenario
 
